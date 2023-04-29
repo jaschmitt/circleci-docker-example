@@ -30,4 +30,4 @@ You need to set the following environment variables on CircleCI UI:
 
 ### About CircleCI Guest Writer Program
 
-Join a team of freelance writers and write about your favorite technology topics for the CircleCI blog. Read more about the program [here][gwp-program].
+Join a team of freelance writers and write about your favorite technology topics for the CircleCI blog. Read more about the program [here](https://circle.ci/3ahQxfu).
