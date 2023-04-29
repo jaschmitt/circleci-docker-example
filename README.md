@@ -1,6 +1,10 @@
-# circleci-2.0-beta-docker-example
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/circleci-docker-example.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/circleci-docker-example)
 
-This is an example project for building Docker images on [CircleCI 2.0 Beta](https://circleci.com/beta-access/). This project covers:
+<p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
+
+# circleci-2.1-docker-example
+
+This is an example project for building Docker images on [CircleCI 2.1](https://circleci.com/docs/building-docker-images/). This project covers:
 
 - Building Docker images in Docker CI container
 - Caching Docker image layers without using [potential premium feature](https://circleci.com/docs/docker-layer-caching/)
@@ -23,3 +27,7 @@ You need to set the following environment variables on CircleCI UI:
 
 - `DOCKERHUB_USERNAME`
 - `DOCKERHUB_PASSWORD`
+
+### About CircleCI Guest Writer Program
+
+Join a team of freelance writers and write about your favorite technology topics for the CircleCI blog. Read more about the program [here][gwp-program].
