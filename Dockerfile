@@ -1,10 +1,14 @@
 FROM node:18
 
+RUN mkdir /app
+
+
+ADD . /app
 ###
 # Set up the working directory
 #
 
-WORKDIR /usr/src/app
+WORKDIR /app
 
 
 
