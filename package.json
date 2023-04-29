@@ -6,6 +6,7 @@
   "author": "oluyemi <yemiwebby@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "start": "node start.js",
     "test": "NODE_ENV=test jest"
   },
   "dependencies": {
